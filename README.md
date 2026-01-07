@@ -8,3 +8,15 @@ Este repositorio es un ejercicio práctico para aprender Git en parejas.
 
 Aprender a usar ramas y merges.
 
+
+
+\## Conceptos básicos de Git
+
+\- Repositorio
+
+\- Commit
+
+\- Rama
+
+\- Merge
+
